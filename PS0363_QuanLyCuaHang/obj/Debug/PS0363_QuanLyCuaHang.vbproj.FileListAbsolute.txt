@@ -1,0 +1,30 @@
+D:\ĐIỆN TOÁN ĐÁM MÂY\PS0363_QuanLyCuaHang\PS0363_QuanLyCuaHang\bin\Debug\PS0363_QuanLyCuaHang.exe.config
+D:\ĐIỆN TOÁN ĐÁM MÂY\PS0363_QuanLyCuaHang\PS0363_QuanLyCuaHang\obj\Debug\PS0363_QuanLyCuaHang.frmDangNhap.resources
+D:\ĐIỆN TOÁN ĐÁM MÂY\PS0363_QuanLyCuaHang\PS0363_QuanLyCuaHang\obj\Debug\PS0363_QuanLyCuaHang.frmHoaDon.resources
+D:\ĐIỆN TOÁN ĐÁM MÂY\PS0363_QuanLyCuaHang\PS0363_QuanLyCuaHang\obj\Debug\PS0363_QuanLyCuaHang.frmKhachHang.resources
+D:\ĐIỆN TOÁN ĐÁM MÂY\PS0363_QuanLyCuaHang\PS0363_QuanLyCuaHang\obj\Debug\PS0363_QuanLyCuaHang.frmSanPham.resources
+D:\ĐIỆN TOÁN ĐÁM MÂY\PS0363_QuanLyCuaHang\PS0363_QuanLyCuaHang\obj\Debug\PS0363_QuanLyCuaHang.frmTrangChu.resources
+D:\ĐIỆN TOÁN ĐÁM MÂY\PS0363_QuanLyCuaHang\PS0363_QuanLyCuaHang\obj\Debug\PS0363_QuanLyCuaHang.Resources.resources
+D:\ĐIỆN TOÁN ĐÁM MÂY\PS0363_QuanLyCuaHang\PS0363_QuanLyCuaHang\obj\Debug\PS0363_QuanLyCuaHang.vbproj.GenerateResource.Cache
+D:\ĐIỆN TOÁN ĐÁM MÂY\PS0363_QuanLyCuaHang\PS0363_QuanLyCuaHang\bin\Debug\PS0363_QuanLyCuaHang.exe
+D:\ĐIỆN TOÁN ĐÁM MÂY\PS0363_QuanLyCuaHang\PS0363_QuanLyCuaHang\bin\Debug\PS0363_QuanLyCuaHang.pdb
+D:\ĐIỆN TOÁN ĐÁM MÂY\PS0363_QuanLyCuaHang\PS0363_QuanLyCuaHang\bin\Debug\PS0363_QuanLyCuaHang.xml
+D:\ĐIỆN TOÁN ĐÁM MÂY\PS0363_QuanLyCuaHang\PS0363_QuanLyCuaHang\obj\Debug\PS0363_QuanLyCuaHang.exe
+D:\ĐIỆN TOÁN ĐÁM MÂY\PS0363_QuanLyCuaHang\PS0363_QuanLyCuaHang\obj\Debug\PS0363_QuanLyCuaHang.xml
+D:\ĐIỆN TOÁN ĐÁM MÂY\PS0363_QuanLyCuaHang\PS0363_QuanLyCuaHang\obj\Debug\PS0363_QuanLyCuaHang.pdb
+D:\ĐIỆN TOÁN ĐÁM MÂY\PS03163_QuanLyCuaHang_ASM 2\PS0363_QuanLyCuaHang\bin\Debug\PS0363_QuanLyCuaHang.exe.config
+D:\ĐIỆN TOÁN ĐÁM MÂY\PS03163_QuanLyCuaHang_ASM 2\PS0363_QuanLyCuaHang\obj\Debug\PS0363_QuanLyCuaHang.exe
+D:\ĐIỆN TOÁN ĐÁM MÂY\PS03163_QuanLyCuaHang_ASM 2\PS0363_QuanLyCuaHang\obj\Debug\PS0363_QuanLyCuaHang.xml
+D:\ĐIỆN TOÁN ĐÁM MÂY\PS03163_QuanLyCuaHang_ASM 2\PS0363_QuanLyCuaHang\obj\Debug\PS0363_QuanLyCuaHang.pdb
+D:\ĐIỆN TOÁN ĐÁM MÂY\PS03163_QuanLyCuaHang_ASM 2\PS0363_QuanLyCuaHang\bin\Debug\PS0363_QuanLyCuaHang.exe
+D:\ĐIỆN TOÁN ĐÁM MÂY\PS03163_QuanLyCuaHang_ASM 2\PS0363_QuanLyCuaHang\bin\Debug\PS0363_QuanLyCuaHang.pdb
+D:\ĐIỆN TOÁN ĐÁM MÂY\PS03163_QuanLyCuaHang_ASM 2\PS0363_QuanLyCuaHang\bin\Debug\PS0363_QuanLyCuaHang.xml
+D:\ĐIỆN TOÁN ĐÁM MÂY\PS03163_QuanLyCuaHang_ASM 2\PS0363_QuanLyCuaHang\obj\Debug\PS0363_QuanLyCuaHang.frmDangNhap.resources
+D:\ĐIỆN TOÁN ĐÁM MÂY\PS03163_QuanLyCuaHang_ASM 2\PS0363_QuanLyCuaHang\obj\Debug\PS0363_QuanLyCuaHang.frmHoaDon.resources
+D:\ĐIỆN TOÁN ĐÁM MÂY\PS03163_QuanLyCuaHang_ASM 2\PS0363_QuanLyCuaHang\obj\Debug\PS0363_QuanLyCuaHang.frmKhachHang.resources
+D:\ĐIỆN TOÁN ĐÁM MÂY\PS03163_QuanLyCuaHang_ASM 2\PS0363_QuanLyCuaHang\obj\Debug\PS0363_QuanLyCuaHang.frmSanPham.resources
+D:\ĐIỆN TOÁN ĐÁM MÂY\PS03163_QuanLyCuaHang_ASM 2\PS0363_QuanLyCuaHang\obj\Debug\PS0363_QuanLyCuaHang.frmTrangChu.resources
+D:\ĐIỆN TOÁN ĐÁM MÂY\PS03163_QuanLyCuaHang_ASM 2\PS0363_QuanLyCuaHang\obj\Debug\PS0363_QuanLyCuaHang.Resources.resources
+D:\ĐIỆN TOÁN ĐÁM MÂY\PS03163_QuanLyCuaHang_ASM 2\PS0363_QuanLyCuaHang\obj\Debug\PS0363_QuanLyCuaHang.vbproj.GenerateResource.Cache
+D:\ĐIỆN TOÁN ĐÁM MÂY\PS03163_QuanLyCuaHang_ASM 2\PS0363_QuanLyCuaHang\obj\Debug\PS0363_QuanLyCuaHang.GioiThieu.resources
+D:\ĐIỆN TOÁN ĐÁM MÂY\PS03163_QuanLyCuaHang_ASM 2\PS0363_QuanLyCuaHang\obj\Debug\PS0363_QuanLyCuaHang.vbprojResolveAssemblyReference.cache
